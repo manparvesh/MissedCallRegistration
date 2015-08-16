@@ -1,2 +1,3 @@
 # MissedCallRegistration
-Android application for Sahayak Society to save the missed call numbers in a person's Google drive.
+
+One can login using their google account. Whenever a missed call is detected, the number is saved in a file in the person's Google Drive.
